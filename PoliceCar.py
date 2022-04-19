@@ -1,0 +1,2 @@
+class PoliceCar:
+    pass

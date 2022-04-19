@@ -1,0 +1,2 @@
+class BigObstacle:
+    pass
