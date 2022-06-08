@@ -1,2 +1,0 @@
-class RoadGame:
-    pass
